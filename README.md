@@ -1,4 +1,4 @@
-Hi there, I'm Anurag Handique! 👋
+# **Hi there, I'm Anurag Handique!** 👋
 
 ## About Me
 
