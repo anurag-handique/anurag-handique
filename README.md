@@ -6,7 +6,7 @@ I'm a passionate software developer actively seeking new opportunities to contri
 
 ## My Background
 
-I hold a Bachelor's degree in Physics from Dibrugarh University, and I have valuable experience in:
+I hold a Bachelor's degree in Physics under Dibrugarh University, and I have valuable experience in:
 
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java  ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot  ![React.js](https://img.icons8.com/office/48/000000/react.png) React.js  ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL  ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB  ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) PostgreSQL  ![Git](https://img.icons8.com/color/48/000000/git.png) Git  ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker  ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS  ![Bitbucket](https://img.icons8.com/color/48/000000/bitbucket.png) Bitbucket ![Apache Kafka](https://img.icons8.com/color/48/000000/tomcat.png) Apache Kafka ![Quartz Scheduler](https://img.icons8.com/color/48/000000/time.png) Quartz Scheduler  ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) Postman,![Wordpress](https://img.icons8.com/color/48/000000/wordpress.png)  Wordpress 
 
