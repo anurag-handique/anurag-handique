@@ -8,17 +8,7 @@ I'm a passionate software developer actively seeking new opportunities to contri
 
 I hold a Bachelor's degree in Physics from Dibrugarh University, and I have valuable experience in:
 
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java  
-![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot  
-![React.js](https://img.icons8.com/office/48/000000/react.png) React.js  
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL  
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB  
-![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) PostgreSQL  
-![Git](https://img.icons8.com/color/48/000000/git.png) Git  
-![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker  
-![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS  
-![Bitbucket](https://img.icons8.com/color/48/000000/bitbucket.png) Bitbucket  
-![Wordpress](https://img.icons8.com/color/48/000000/wordpress.png) Wordpress  
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java  ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot  ![React.js](https://img.icons8.com/office/48/000000/react.png) React.js  ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL  ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB  ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) PostgreSQL  ![Git](https://img.icons8.com/color/48/000000/git.png) Git  ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker  ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS  ![Bitbucket](https://img.icons8.com/color/48/000000/bitbucket.png) Bitbucket  ![Wordpress](https://img.icons8.com/color/48/000000/wordpress.png) Wordpress  
 
 Additionally, I have experience with:
 
