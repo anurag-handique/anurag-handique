@@ -1,4 +1,4 @@
-![image](https://github.com/anurag-handique/anurag-handique/assets/135096807/d9964b35-43b6-47f4-a42c-d0aaefeb5bbf)# Hi there, I'm Anurag Handique! 👋
+Hi there, I'm Anurag Handique! 👋
 
 ## About Me
 
