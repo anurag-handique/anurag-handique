@@ -1,4 +1,4 @@
-# Hi there, I'm Anurag Handique! 👋
+![image](https://github.com/anurag-handique/anurag-handique/assets/135096807/d9964b35-43b6-47f4-a42c-d0aaefeb5bbf)# Hi there, I'm Anurag Handique! 👋
 
 ## About Me
 
@@ -8,7 +8,9 @@ I'm a passionate software developer actively seeking new opportunities to contri
 
 I hold a Bachelor's degree in Physics from Dibrugarh University, and I have valuable experience in:
 
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java  ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot  ![React.js](https://img.icons8.com/office/48/000000/react.png) React.js  ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL  ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB  ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) PostgreSQL  ![Git](https://img.icons8.com/color/48/000000/git.png) Git  ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker  ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS  ![Bitbucket](https://img.icons8.com/color/48/000000/bitbucket.png) Bitbucket  ![Wordpress](https://img.icons8.com/color/48/000000/wordpress.png) Wordpress  
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java  ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot  ![React.js](https://img.icons8.com/office/48/000000/react.png) React.js  ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL  ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB  ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) PostgreSQL  ![Git](https://img.icons8.com/color/48/000000/git.png) Git  ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker  ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS  ![Bitbucket](https://img.icons8.com/color/48/000000/bitbucket.png) Bitbucket ![Apache Kafka](https://img.icons8.com/color/48/000000/tomcat.png) Apache Kafka ![Quartz Scheduler](https://img.icons8.com/color/48/000000/time.png) Quartz Scheduler ![Wordpress](https://img.icons8.com/color/48/000000/wordpress.png)  Wordpress 
+
+
 
 Additionally, I have experience with:
 
@@ -22,7 +24,7 @@ Over the past 2 years, I've honed my skills through hands-on projects, internshi
 ## My Skills
 
 - **Programming Languages**: ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java, ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- **Frameworks & Libraries**: ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot, ![React.js](https://img.icons8.com/office/48/000000/react.png) React.js
+- **Frameworks & Libraries**: ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot, ![React.js](https://img.icons8.com/office/48/000000/react.png) React.js ,![Apache Kafka](https://img.icons8.com/color/48/000000/tomcat.png) Apache Kafka , ![Quartz Scheduler](https://img.icons8.com/color/48/000000/time.png) Quartz Scheduler
 - **Databases**: ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL, ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB, ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) PostgreSQL
 - **Tools & Platforms**: ![Git](https://img.icons8.com/color/48/000000/git.png) Git, ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker, ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS, ![Bitbucket](https://img.icons8.com/color/48/000000/bitbucket.png) Bitbucket, ![Wordpress](https://img.icons8.com/color/48/000000/wordpress.png) Wordpress
 
