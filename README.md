@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate software developer actively seeking new opportunities to contribute my skills and expertise to innovative projects. With a strong foundation in **Full Stack Development**, I'm eager to tackle new challenges and make meaningful contributions to your team.
+I'm a passionate software developer actively seeking new opportunities to contribute my skills and expertise to innovative projects. With a strong foundation in **Backend Development**, I'm eager to tackle new challenges and make meaningful contributions to your team.
 
 ## My Background
 
